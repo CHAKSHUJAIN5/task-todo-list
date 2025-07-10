@@ -28,4 +28,4 @@ _Add some screenshots of the app here_
 3. Add your tasks and organize!
 
 ## 💡 Author
-- **Your Name** – [GitHub](https://github.com/yourusername)
+- **Your Name** – [GitHub](https://github.com/CHAKSHUJAIN5)
