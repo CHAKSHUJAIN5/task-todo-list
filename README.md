@@ -10,9 +10,7 @@ A user-friendly To-Do List web app built with HTML, CSS, and JavaScript. Feature
 - Smart sorting by date & priority
 - LocalStorage to save tasks
 - Responsive design
-
-## 🚀 Live Demo
-[Click here to try it now](https://github.com/CHAKSHUJAIN5/task-todo-list)
+- 
 
 ## 📂 Project Structure
 - `index.html`
@@ -20,7 +18,9 @@ A user-friendly To-Do List web app built with HTML, CSS, and JavaScript. Feature
 - `script.js`
 
 ## 📸 Screenshots
-_Add some screenshots of the app here_
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3feecaf7-84d3-4b72-a574-fd4e84db53b4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/798c6241-eeac-4ed2-935b-7cd4a50d59b5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/370ceb72-9435-43f5-91a1-805a34ef88ef" />
 
 ## 📌 How to Use
 1. Clone the repo
