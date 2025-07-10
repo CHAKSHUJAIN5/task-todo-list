@@ -28,4 +28,4 @@ A user-friendly To-Do List web app built with HTML, CSS, and JavaScript. Feature
 3. Add your tasks and organize!
 
 ## 💡 Author
-- **Your Name** – [GitHub](https://github.com/CHAKSHUJAIN5)
+- **Your Name** – [CHAKSHU JAIN](https://github.com/CHAKSHUJAIN5)
